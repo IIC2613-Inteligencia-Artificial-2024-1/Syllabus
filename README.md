@@ -21,7 +21,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 *Las fechas y temáticas de las ayudantías están sujetas a cambio a lo largo del semestre*
 | Número  | Tema | Fecha |
 | ------- | ---- | ----- |
-| Ayudantía 0 | - | XX/XX/2024 |
+| Ayudantía 0 | Setup de Clingo | 18/03/2024 |
 | Ayudantía 1 | - | XX/XX/2024 |
 | Ayudantía 2 | -	| XX/XX/2024 |
 | Ayudantía 3 | - | XX/XX/2024 |
@@ -51,15 +51,16 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 
 | Número | Tema | Fecha | Enunciado | Solución |
 | --- | --- | --- | --- | -- |
-| Control 1 | XXX | XX-XX-2024| [Canvas]() | [Solución]() |
+| Control 1 | Programa del curso y sistemas de aprendizaje | 19-03-2024| [Canvas](https://cursos.canvas.uc.cl/courses/69371) | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| Control 2 | XXX | XX-XX-2024| [Canvas]() |  |
 
 ### Tareas
 
 Las tareas buscan medir de forma integral tanto los aspectos teóricos como prácticos de los contenidos vistos en el curso. Los enunciados y las entregas serán a través del GitHub del curso (a excepción de la T1).
 
-- **T1 (XX/XX &rarr; XX/XX)**
+- **T1 (14/03 &rarr; 28/03)**
   - Contenidos: Rol de la IA en la humanidad
-  - [Enunciado]()
+  - [Enunciado](https://cursos.canvas.uc.cl/courses/69371/assignments/385163)
 
 - **T2 (XX/XX &rarr; XX/XX)**
   - Contenidos: Programación en Lógica y ASP
