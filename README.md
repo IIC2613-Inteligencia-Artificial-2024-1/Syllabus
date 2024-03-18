@@ -22,19 +22,21 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Número  | Tema | Fecha |
 | ------- | ---- | ----- |
 | Ayudantía 0 | Setup de Clingo | 18/03/2024 |
-| Ayudantía 1 | - | XX/XX/2024 |
-| Ayudantía 2 | -	| XX/XX/2024 |
-| Ayudantía 3 | - | XX/XX/2024 |
-| Ayudantía 4 | - | XX/XX/2024 |
-| Ayudantía 5 | -	| XX/XX/2024 |
-| Ayudantía 6 | -	| XX/XX/2024 |
-| Ayudantía 7 | -	| XX/XX/2024 |
-| Ayudantía 8 | -	| XX/XX/2024 |
-| Ayudantía 9 | -  | XX/XX/2024 |
-| Ayudantía 10 | - | XX/XX/2024 |
-| Ayudantía 11 | - | XX/XX/2024 |
-| Ayudantía 12 | - | XX/XX/2024 |
-| Ayudantía 13 | - | XX/XX/2024 |
+| Ayudantía 1 | Introducción a ASP y Clingo | 25/03/2024 |
+| Ayudantía 2 | Negación y modelación en Clingo	| 01/04/2024 |
+| Ayudantía 3 | - | 08/04/2024 |
+| Ayudantía 4 | - | 15/04/2024 |
+| Ayudantía 5 | -	| 22/04/2024 |
+| Ayudantía 6 | -	| 6/05/2024 |
+| Ayudantía 7 | -	| 13/05/2024 |
+| Ayudantía 8 | -	| 20/05/2024 |
+| Ayudantía 9 | -  | 27/05/2024 |
+| Ayudantía 10 | - | 03/06/2024 |
+| Ayudantía 11 | - | 10/06/2024 |
+| Ayudantía 12 | - | 17/06/2024 |
+| Ayudantía 13 | - | 24/06/2024 |
+| Ayudantía 14 | - | 01/06/2024 |
+| Ayudantía 15 | - | 08/06/2024 |
 
 ## Equipo
 
@@ -43,6 +45,18 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Jorge Baier | Profesor  | jabaier@ing.puc.cl |  |
 | Jocelyn Dunstan | Profesora  | halobel@ing.puc.cl | [@jocelyndunstan](https://github.com/jocelyndunstan) |
 | Daniel Florea | Ayudante coordinador  | dflorea@uc.cl | [@dfloreaa](https://github.com/dfloreaa)
+Ignacio Villanueva | Ayudante | - | [@ignaciovilla](https://github.com/ignaciovilla)
+Daniel Toribio | Ayudante | - | [@Hellonston](https://github.com/Hellonston)
+Kaina Galdames | Ayudante | - | [@KainaBGR](https://github.com/KainaBGR)
+Gonzalo Fuentes | Ayudante | - | [@GonzaloFuentes1](https://github.com/GonzaloFuentes1)
+Stephen Pugh | Ayudante | - | [@stephenwpugh](https://github.com/stephenwpugh)
+Martin Lagies | Ayudante | - | [@M4rtinL4gies](https://github.com/M4rtinL4gies)
+Felipe Espinoza | Ayudante | - | [@FelipeEspinozaS](https://github.com/FelipeEspinozaS)
+Martin Castillo | Ayudante | - | [@MartinCastillo](https://github.com/MartinCastillo)
+Jose Aravena | Ayudante | - | [@JoseAravenaSabugo](https://github.com/JoseAravenaSabugo)
+Martin Vial | Ayudante | - | [@Martinviald](https://github.com/Martinviald)
+Rodrigo Figueroa | Ayudante | - | [@StoicSilver](https://github.com/StoicSilver)
+Ignacio Le Dantec | Ayudante | - | [@iledantec](https://github.com/iledantec)
 
 ## Evaluación
 
@@ -52,7 +66,17 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | Número | Tema | Fecha | Enunciado | Solución |
 | --- | --- | --- | --- | -- |
 | Control 1 | Programa del curso y sistemas de aprendizaje | 19-03-2024| [Canvas](https://cursos.canvas.uc.cl/courses/69371) | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| Control 2 | XXX | XX-XX-2024| [Canvas]() |  |
+| Control 2 | Introduccion a la programacion en logica: Sintaxis y computo de modelos | 26-03-2024| [Canvas]() |  |
+| Control 3 | XXX | 04-04-2024| [Canvas]() |  |
+| Control 4 | XXX | 09-04-2024| [Canvas]() |  |
+| Control 5 | XXX | 16-04-2024| [Canvas]() |  |
+| Control 6 | XXX | 23-04-2024| [Canvas]() |  |
+| Control 7 | XXX | 07-05-2024| [Canvas]() |  |
+| Control 8 | XXX | 14-05-2024| [Canvas]() |  |
+| Control 9 | XXX | 04-06-2024| [Canvas]() |  |
+| Control 10 | XXX | 11-06-2024| [Canvas]() |  |
+| Control 11 | XXX | 18-06-2024| [Canvas]() |  |
+| Control 12 | XXX | 02-07-2024| [Canvas]() |  |
 
 ### Tareas
 
@@ -62,20 +86,20 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
   - Contenidos: Rol de la IA en la humanidad
   - [Enunciado](https://cursos.canvas.uc.cl/courses/69371/assignments/385163)
 
-- **T2 (XX/XX &rarr; XX/XX)**
+- **T2 (02/04 &rarr; 16/04)**
   - Contenidos: Programación en Lógica y ASP
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2024-1/T2)
 
-- **T3 (XX/XX &rarr; XX/XX)**
+- **T3 (25/04 &rarr; 16/05)**
   - Contenidos: Problemas de Búsqueda
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2024-1/T3)
 
-- **T4 (XX/XX &rarr; XX/XX)**
-  - Contenidos: Árboles de Decisión y SVM
+- **T4 (30/05 &rarr; 13/06)**
+  - Contenidos: Machine Learning
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2024-1/T4)
 
-- **T5 (XX/XX &rarr; XX/XX)**
-  - Contenidos: Redes Neuronales y Aprendizaje Reforzado
+- **T5 (27/06 &rarr; 11/07)**
+  - Contenidos: Usos de IA en la actualidad y sus desafios eticos
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2024-1/T5)
 
 ## Programa y administración
