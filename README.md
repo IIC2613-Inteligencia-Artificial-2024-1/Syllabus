@@ -43,7 +43,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Nombre  | Cargo | Email | Github |
 | -------------- | ------ | ---------------- | ----------- |
 | Jorge Baier | Profesor  | jabaier@ing.puc.cl |  |
-| Jocelyn Dunstan | Profesora  | halobel@ing.puc.cl | [@jocelyndunstan](https://github.com/jocelyndunstan) |
+| Jocelyn Dunstan | Profesora  | jdunstan@uc.cl | [@jocelyndunstan](https://github.com/jocelyndunstan) |
 | Daniel Florea | Ayudante coordinador  | dflorea@uc.cl | [@dfloreaa](https://github.com/dfloreaa)
 Ignacio Villanueva | Ayudante | - | [@ignaciovilla](https://github.com/ignaciovilla)
 Daniel Toribio | Ayudante | - | [@Hellonston](https://github.com/Hellonston)
