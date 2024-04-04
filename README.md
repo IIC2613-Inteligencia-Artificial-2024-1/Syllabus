@@ -23,7 +23,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | ------- | ---- | ----- |
 | Ayudantía 0 | Setup de Clingo | 18/03/2024 |
 | Ayudantía 1 | Introducción a ASP y Clingo | 25/03/2024 |
-| Ayudantía 2 | Negación y modelación en Clingo	| 01/04/2024 |
+| Ayudantía 2 | Modelación en Clingo y Tarea 2	| 01/04/2024 |
 | Ayudantía 3 | - | 08/04/2024 |
 | Ayudantía 4 | - | 15/04/2024 |
 | Ayudantía 5 | -	| 22/04/2024 |
@@ -67,8 +67,8 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | --- | --- | --- | --- | -- |
 | Control 1 | Programa del curso y sistemas de aprendizaje | 19-03-2024| [Canvas](https://cursos.canvas.uc.cl/courses/69371) | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 | Control 2 | Introduccion a la programacion en logica: Sintaxis y computo de modelos | 26-03-2024| [Canvas]() |  |
-| Control 3 | XXX | 04-04-2024| [Canvas]() |  |
-| Control 4 | XXX | 09-04-2024| [Canvas]() |  |
+| Control 3 | Modelacion y Negacion en Clingo | 04-04-2024| [Canvas]() |  |
+| Control 4 | Introduccion a problemas de Busqueda | 09-04-2024| [Canvas]() |  |
 | Control 5 | XXX | 16-04-2024| [Canvas]() |  |
 | Control 6 | XXX | 23-04-2024| [Canvas]() |  |
 | Control 7 | XXX | 07-05-2024| [Canvas]() |  |
