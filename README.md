@@ -24,7 +24,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Ayudantía 0 | Setup de Clingo | 18/03/2024 |
 | Ayudantía 1 | Introducción a ASP y Clingo | 25/03/2024 |
 | Ayudantía 2 | Modelación en Clingo y Tarea 2	| 01/04/2024 |
-| Ayudantía 3 | - | 08/04/2024 |
+| Ayudantía 3 | Introduccion a problemas de busqueda | 08/04/2024 |
 | Ayudantía 4 | - | 15/04/2024 |
 | Ayudantía 5 | -	| 22/04/2024 |
 | Ayudantía 6 | -	| 6/05/2024 |
