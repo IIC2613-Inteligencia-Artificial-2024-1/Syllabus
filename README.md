@@ -25,8 +25,8 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Ayudantía 1 | Introducción a ASP y Clingo | 25/03/2024 |
 | Ayudantía 2 | Modelación en Clingo y Tarea 2	| 01/04/2024 |
 | Ayudantía 3 | Introduccion a problemas de busqueda | 08/04/2024 |
-| Ayudantía 4 | - | 15/04/2024 |
-| Ayudantía 5 | -	| 22/04/2024 |
+| Ayudantía 4 | Busqueda: DFS, BFS e introduccion a A* | 15/04/2024 |
+| Ayudantía 5 | Algoritmo A* y Heuristicas	| 22/04/2024 |
 | Ayudantía 6 | -	| 6/05/2024 |
 | Ayudantía 7 | -	| 13/05/2024 |
 | Ayudantía 8 | -	| 20/05/2024 |
@@ -69,8 +69,8 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | Control 2 | Introduccion a la programacion en logica: Sintaxis y computo de modelos | 26-03-2024| [Canvas]() |  |
 | Control 3 | Modelacion y Negacion en Clingo | 04-04-2024| [Canvas]() |  |
 | Control 4 | Introduccion a problemas de Busqueda | 09-04-2024| [Canvas]() |  |
-| Control 5 | XXX | 16-04-2024| [Canvas]() |  |
-| Control 6 | XXX | 23-04-2024| [Canvas]() |  |
+| Control 5 | Busqueda: Algoritmos basicos de busqueda | 16-04-2024| [Canvas]() |  |
+| Control 6 | A* y Heuristicas | 23-04-2024| [Canvas]() |  |
 | Control 7 | XXX | 07-05-2024| [Canvas]() |  |
 | Control 8 | XXX | 14-05-2024| [Canvas]() |  |
 | Control 9 | XXX | 04-06-2024| [Canvas]() |  |
