@@ -71,8 +71,8 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | Control 4 | Introduccion a problemas de Busqueda | 09-04-2024| [Canvas]() |  |
 | Control 5 | Busqueda: Algoritmos basicos de busqueda | 16-04-2024| [Canvas]() |  |
 | Control 6 | A* y Heuristicas | 23-04-2024| [Canvas]() |  |
-| Control 7 | XXX | 07-05-2024| [Canvas]() |  |
-| Control 8 | XXX | 14-05-2024| [Canvas]() |  |
+| Control 7 | XXX | 14-05-2024| [Canvas]() |  |
+| Control 8 | XXX | 28-05-2024| [Canvas]() |  |
 | Control 9 | XXX | 04-06-2024| [Canvas]() |  |
 | Control 10 | XXX | 11-06-2024| [Canvas]() |  |
 | Control 11 | XXX | 18-06-2024| [Canvas]() |  |
