@@ -27,7 +27,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Ayudantía 3 | Introduccion a problemas de busqueda | 08/04/2024 |
 | Ayudantía 4 | Busqueda: DFS, BFS e introduccion a A* | 15/04/2024 |
 | Ayudantía 5 | Algoritmo A* y Heuristicas	| 22/04/2024 |
-| Ayudantía 6 | -	| 6/05/2024 |
+| Ayudantía 6 | Búsqueda en juegos y MinMax | 6/05/2024 |
 | Ayudantía 7 | -	| 13/05/2024 |
 | Ayudantía 8 | -	| 20/05/2024 |
 | Ayudantía 9 | -  | 27/05/2024 |
