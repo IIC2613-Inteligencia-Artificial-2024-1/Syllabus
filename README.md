@@ -29,14 +29,13 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Ayudantía 5 | Algoritmo A* y Heuristicas	| 22/04/2024 |
 | Ayudantía 6 | Búsqueda en juegos y MinMax | 6/05/2024 |
 | Ayudantía 7 | Introduccion a Machine Learning y Pandas	| 13/05/2024 |
-| Ayudantía 8 | -	| 20/05/2024 |
-| Ayudantía 9 | -  | 27/05/2024 |
-| Ayudantía 10 | - | 03/06/2024 |
-| Ayudantía 11 | - | 10/06/2024 |
-| Ayudantía 12 | - | 17/06/2024 |
-| Ayudantía 13 | - | 24/06/2024 |
-| Ayudantía 14 | - | 01/06/2024 |
-| Ayudantía 15 | - | 08/06/2024 |
+| Ayudantía 8 | Árboles de Decisión y Xgboosting	| 20/05/2024 |
+| Ayudantía 9 | SVM y Funcion de Kernel  | 27/05/2024 |
+| Ayudantía 10 | Aprendizaje Reforzado | 03/06/2024 |
+| Ayudantía 11 | Clustering | 10/06/2024 |
+| Ayudantía 12 | Intro a Redes Neuronales | 17/06/2024 |
+| Ayudantía 13 | Redes Neuronales Convolucionales | 24/06/2024 |
+| Ayudantía 14 | Procesamiento de Lenguaje Natural | 01/06/2024 |
 
 ## Equipo
 
@@ -72,11 +71,11 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | Control 5 | Busqueda: Algoritmos basicos de busqueda | 16-04-2024| [Canvas]() |  |
 | Control 6 | A* y Heuristicas | 23-04-2024| [Canvas]() |  |
 | Control 7 | Introduccion a Machine Learning | 14-05-2024| [Canvas]() |  |
-| Control 8 | XXX | 28-05-2024| [Canvas]() |  |
-| Control 9 | XXX | 04-06-2024| [Canvas]() |  |
-| Control 10 | XXX | 11-06-2024| [Canvas]() |  |
-| Control 11 | XXX | 18-06-2024| [Canvas]() |  |
-| Control 12 | XXX | 02-07-2024| [Canvas]() |  |
+| Control 8 | KNN, Arboles de Decision y SVM | 28-05-2024| [Canvas]() |  |
+| Control 9 | Regresion y Aprendizaje Reforzado | 04-06-2024| [Canvas]() |  |
+| Control 10 | Clustering y PCA | 11-06-2024| [Canvas]() |  |
+| Control 11 | Redes Neuronales | 18-06-2024| [Canvas]() |  |
+| Control 12 | Usos de la IA y Consideraciones Eticas | 25-06-2024| [Canvas]() |  |
 
 ### Tareas
 
