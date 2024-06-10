@@ -74,8 +74,8 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | Control 8 | KNN, Arboles de Decision y SVM | 28-05-2024| [Canvas]() |  |
 | Control 9 | Regresion y Aprendizaje Reforzado | 04-06-2024| [Canvas]() |  |
 | Control 10 | Clustering y PCA | 11-06-2024| [Canvas]() |  |
-| Control 11 | Redes Neuronales | 18-06-2024| [Canvas]() |  |
-| Control 12 | Usos de la IA y Consideraciones Eticas | 25-06-2024| [Canvas]() |  |
+| Control 11 | Actividad en Clases | 18-06-2024| [Canvas]() |  |
+| Control 12 | Redes Neuronales | 25-06-2024| [Canvas]() |  |
 
 ### Tareas
 
