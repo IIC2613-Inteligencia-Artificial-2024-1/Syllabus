@@ -32,7 +32,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Ayudantía 8 | Árboles de Decisión y Xgboosting	| 20/05/2024 |
 | Ayudantía 9 | SVM y Funcion de Kernel  | 27/05/2024 |
 | Ayudantía 10 | Aprendizaje Reforzado | 03/06/2024 |
-| Ayudantía 11 | Clustering | 10/06/2024 |
+| Ayudantía 11 | Aprendizaje no Supervisado | 10/06/2024 |
 | Ayudantía 12 | Intro a Redes Neuronales | 17/06/2024 |
 | Ayudantía 13 | Redes Neuronales Convolucionales | 24/06/2024 |
 | Ayudantía 14 | Procesamiento de Lenguaje Natural | 01/06/2024 |
