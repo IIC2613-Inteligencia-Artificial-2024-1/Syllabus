@@ -97,7 +97,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
   - Contenidos: Machine Learning
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2024-1/T4)
 
-- **T5 (27/06 &rarr; 11/07)**
+- **T5 (27/06 &rarr; 10/07)**
   - Contenidos: Usos de IA en la actualidad y sus desafios eticos
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2024-1/T5)
 
